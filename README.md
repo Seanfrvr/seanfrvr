@@ -17,7 +17,7 @@ Seeking a SOC Analyst role where I can apply hands-on experience from building a
 | SIEM Log Ingestion & Threat Hunting | <a href="https://github.com/Seanfrvr/splunk-siem-home-lab">Splunk SIEM Home Lab</a> |
 | Web Application Security & Vulnerability Remediation | <a href="https://github.com/Seanfrvr/gcp-web-security-scanner">GCP Web Security Scanner</a> |
 | Infrastructure as Code & Network Hardening | <a href="https://github.com/Seanfrvr/gcp-vpc-terraform-hardening">Automated VPC Architecture (Terraform)</a> |
-| Cloud Identity Threat Hunting & IAM Security | <a href="#">Threat Hunting: Identity Persistence in GCP</a> |
+| Cloud Identity Threat Hunting & IAM Security | <a href="https://github.com/Seanfrvr/gcp-iam-threat-hunting">Threat Hunting: Identity Persistence in GCP</a> |
 
 ## Tools
 
