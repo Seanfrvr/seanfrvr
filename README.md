@@ -18,6 +18,7 @@ Seeking a SOC Analyst role where I can apply hands-on experience from building a
 | Web Application Security & Vulnerability Remediation | <a href="https://github.com/Seanfrvr/gcp-web-security-scanner">GCP Web Security Scanner</a> |
 | Infrastructure as Code & Network Hardening | <a href="https://github.com/Seanfrvr/gcp-vpc-terraform-hardening">Automated VPC Architecture (Terraform)</a> |
 | Cloud Identity Threat Hunting & IAM Security | <a href="https://github.com/Seanfrvr/gcp-iam-threat-hunting">Threat Hunting: Identity Persistence in GCP</a> |
+| Incident Response & Compliance Remediation | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
 ## Tools
 
