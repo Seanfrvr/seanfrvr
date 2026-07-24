@@ -8,7 +8,7 @@ cloud & cyber security analyst building toward a specialization in cloud securit
 
 ## Objective
 
-Seeking a SOC Analyst role where I can apply hands-on experience from building a Splunk SIEM home lab, remediating a Cross-Site Scripting vulnerability on a deployed GCP web app, and configuring VPC networking and firewall rules.
+Seeking a Security Analyst role where I can apply hands on experience from independently building, breaking, and securing real infrastructure, turning that practical foundation into effective threat detection and incident response for a team.
 
 ## Skills
 
