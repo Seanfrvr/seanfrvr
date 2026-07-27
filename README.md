@@ -22,7 +22,7 @@ Seeking a Security Analyst role where I can apply hands on experience from indep
 
 ## Tools
 
-## Technical Arsenal
+## 🧰 Technical Arsenal
 
 ### SIEM & Log Analysis
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
