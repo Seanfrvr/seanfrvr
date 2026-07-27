@@ -22,23 +22,18 @@ Seeking a Security Analyst role where I can apply hands on experience from indep
 
 ## Tools
 
-### SIEM
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Elastic%20(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## Technical Arsenal
 
-### Endpoint & Network
-<div>
-<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+### SIEM & Log Analysis
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-### Cloud Security
-<div>
-<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/-IAM-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security_Command_Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
-</div>
+### Endpoint & Network Telemetry
+![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Cloud Security & Infrastructure
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![IAM](https://img.shields.io/badge/GCP_IAM-4285F4?style=for-the-badge)
