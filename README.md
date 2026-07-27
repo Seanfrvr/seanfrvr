@@ -1,93 +1,44 @@
-<div align="center">
+# Hello, I'm Sean
 
-  <!-- 1. Animated Cyber-Typing Header Banner -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=SEAN+%7C+SOC+ANALYST;SIEM+%26+LOG+ENGINEERING;CLOUD+INCIDENT+RESPONSE;THREAT+HUNTING+%26+SPL" alt="Typing SVG" />
-  </p>
+<a href="https://linkedin.com/in/sean-n-04354b3bb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <br>
+## Brief Introduction
 
-  <!-- 2. Sleek Dark Terminal Header / Bio -->
-  <table width="100%">
-    <tr>
-      <td bgcolor="#0d1117">
-        <h3 align="center"><code>> root@sean-soc:~# whoami</code></h3>
-        <p align="center">
-          <strong>Security Analyst</strong> focused on SIEM Architecture, Cloud Threat Detection, and DFIR.<br>
-          <em>Engineered pipelines indexing 11K+ live events • Analyzed BOTSv3 Telemetry • Executed NIST SP 800-61 Cloud IR</em>
-        </p>
-      </td>
-    </tr>
-  </table>
+cloud & cyber security analyst building toward a specialization in cloud security, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection.
 
-  <br>
+## Objective
 
-  <!-- 5. Cyber Divider Rule -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-892c-105b23c7894c.gif" width="100%">
-  </p>
+Seeking a Security Analyst role where I can apply hands on experience from independently building, breaking, and securing real infrastructure, turning that practical foundation into effective threat detection and incident response for a team.
 
-  <br>
+## Skills
 
-  <!-- 3. Dark Glow Tech Stack Badges -->
-  <h3>🛠️ Core Tech Stack & Tools</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
-    <img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-    <img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-    <img src="https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge&logo=wireshark&logoColor=167DAA" />
-  </p>
+## 🛠️ Skills & Projects
 
-  <br>
+| Skill | Associated Project |
+| :--- | :--- |
+| **SIEM Log Ingestion & Threat Hunting** | [Splunk Threat Hunting Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
+| **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
+| **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
-  <!-- 5. Cyber Divider Rule -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-892c-105b23c7894c.gif" width="100%">
-  </p>
+## Tools
 
-  <br>
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic%20(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-  <!-- Featured Security Operations Projects -->
-  <h3>🎯 Featured Security Operations Projects</h3>
-  <br>
+### Endpoint & Network
+<div>
+<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-  <table width="100%">
-    <thead>
-      <tr>
-        <th align="left">Project</th>
-        <th align="left">Focus Area</th>
-        <th align="left">Key Technical Highlights</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>🛡️ <a href="https://github.com/Seanfrvr/splunk-siem-home-lab"><strong>Splunk SIEM Home Lab</strong></a></td>
-        <td>SIEM & Log Pipeline</td>
-        <td>Built ingestion pipeline on <strong>Ubuntu</strong> via TCP 9997, indexed <strong>11,475 live host events</strong>, and engineered real-time brute-force alert triggers.</td>
-      </tr>
-      <tr>
-        <td>🕵️ <a href="https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL"><strong>Splunk Threat Hunting</strong></a></td>
-        <td>Threat Detection & SPL</td>
-        <td>Investigated <strong>BOTSv3 dataset</strong>, reverse-engineered obfuscated PowerShell scripts, and mapped adversary techniques to <strong>MITRE ATT&CK</strong>.</td>
-      </tr>
-      <tr>
-        <td>🚨 <a href="https://github.com/Seanfrvr/gcp-data-breach-incident-response"><strong>GCP Incident Response</strong></a></td>
-        <td>Cloud Security & DFIR</td>
-        <td>Investigated unrestricted SSH breach, performed Cloud Audit log analysis, and executed containment following <strong>NIST SP 800-61</strong> framework.</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br><br>
-
-  <!-- 4. Custom Dark-Mode GitHub Stats & Contribution Card -->
-  <h3>📊 Activity Metrics</h3>
-  <br>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seanfrvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sean's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seanfrvr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </p>
-
+### Cloud Security
+<div>
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-IAM-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security_Command_Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
