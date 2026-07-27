@@ -20,6 +20,40 @@ Seeking a Security Analyst role where I can apply hands on experience from indep
 | **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
 | **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
+## Tools
+
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic%20(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Endpoint & Network
+<div>
+<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### Cloud Security
+<div>
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-IAM-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security_Command_Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
+
+
+## Skills
+
+## 🛠️ Skills & Projects
+
+| Skill | Associated Project |
+| :--- | :--- |
+| **SIEM Log Ingestion & Threat Hunting** | [Splunk Threat Hunting Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
+| **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
+| **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
+
 ## 🧰 Technical Arsenal
 
 ### SIEM & Log Analysis
