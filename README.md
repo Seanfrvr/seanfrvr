@@ -20,8 +20,6 @@ Seeking a Security Analyst role where I can apply hands on experience from indep
 | **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
 | **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
-## Tools
-
 ## 🧰 Technical Arsenal
 
 ### SIEM & Log Analysis
