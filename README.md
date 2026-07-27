@@ -1,4 +1,4 @@
-# Hello, I'm Sean
+# Hey, I'm Sean
 
 <a href="https://linkedin.com/in/sean-n-04354b3bb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
