@@ -12,13 +12,13 @@ Seeking a Security Analyst role where I can apply hands on experience from indep
 
 ## Skills
 
+## 🛠️ Skills & Projects
+
 | Skill | Associated Project |
-|-------|---------------------|
-| SIEM Log Ingestion & Threat Hunting | <a href="https://github.com/Seanfrvr/splunk-siem-home-lab">Splunk SIEM Home Lab</a> |
-| Web Application Security & Vulnerability Remediation | <a href="https://github.com/Seanfrvr/gcp-web-security-scanner">GCP Web Security Scanner</a> |
-| Infrastructure as Code & Network Hardening | <a href="https://github.com/Seanfrvr/gcp-vpc-terraform-hardening">Automated VPC Architecture (Terraform)</a> |
-| Cloud Identity Threat Hunting & IAM Security | <a href="https://github.com/Seanfrvr/gcp-iam-threat-hunting">Threat Hunting: Identity Persistence in GCP</a> |
-| Incident Response & Compliance Remediation | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
+| :--- | :--- |
+| **SIEM Log Ingestion & Threat Hunting** | [Splunk Threat Hunting Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
+| **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
+| **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
 ## Tools
 
