@@ -1,87 +1,44 @@
-<div align="center">
+# Hello, I'm Sean
 
-<!-- ASCII Header Art -->
-<pre>
- _____________________________________________________
-/                                                     \
-|    SEAN | SECURITY OPERATIONS & CLOUD ANALYST       |
-\_____________________________________________________/
-       \   ^__^
-        \  (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
-</pre>
+<a href="https://linkedin.com/in/sean-n-04354b3bb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h3><code>> root@sean-soc:~# cat bio.txt</code></h3>
+## Brief Introduction
 
-<p>
-  <strong>Security Operations Analyst</strong> specializing in <strong>SIEM Architecture, Cloud Threat Detection, and DFIR</strong>.<br>
-  <em>Engineered ingestion pipelines (11K+ events) • Analyzed BOTSv3 Telemetry • Executed NIST SP 800-61 IR</em>
-</p>
+cloud & cyber security analyst building toward a specialization in cloud security, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection.
 
-<br>
+## Objective
 
-<p>═══════════════════════════════════════════════════════════════════════════════════</p>
+Seeking a Security Analyst role where I can apply hands on experience from independently building, breaking, and securing real infrastructure, turning that practical foundation into effective threat detection and incident response for a team.
 
-<!-- Terminal Tech Stack Table -->
-<h3><code>> root@sean-soc:~# ./list_tools.sh</code></h3>
+## Skills
 
-<p>
-  <code>[SPLUNK]</code> &nbsp;•&nbsp; 
-  <code>[GCP]</code> &nbsp;•&nbsp; 
-  <code>[LINUX]</code> &nbsp;•&nbsp; 
-  <code>[DOCKER]</code> &nbsp;•&nbsp; 
-  <code>[WIRESHARK]</code> &nbsp;•&nbsp; 
-  <code>[TERRAFORM]</code>
-</p>
+## 🛠️ Skills & Projects
 
-<br>
+| Skill | Associated Project |
+| :--- | :--- |
+| **SIEM Log Ingestion & Threat Hunting** | [Splunk Threat Hunting Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
+| **Security Operations & Event Correlation** | [Splunk SIEM Home Lab](https://github.com/Seanfrvr/splunk-siem-home-lab) |
+| **Cloud Security & Incident Response** | [Data Breach Incident Response — Cymbal Retail](https://github.com/Seanfrvr/gcp-data-breach-incident-response) |
 
-<p>═══════════════════════════════════════════════════════════════════════════════════</p>
+## Tools
 
-<!-- Minimalist Dark Projects Table -->
-<h3><code>> root@sean-soc:~# ls -la /featured_projects/</code></h3>
-<br>
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic%20(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">Directory</th>
-      <th align="left">Focus Area</th>
-      <th align="left">Execution Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🛡️ <a href="https://github.com/Seanfrvr/splunk-siem-home-lab"><strong>splunk-siem-home-lab/</strong></a></td>
-      <td>SIEM Engineering</td>
-      <td>Centralized syslog forwarding over TCP 9997, indexed <strong>11,475 host events</strong>, built real-time SSH brute-force alerts.</td>
-    </tr>
-    <tr>
-      <td>🕵️ <a href="https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL"><strong>splunk-botsv3-hunting/</strong></a></td>
-      <td>Threat Hunting & SPL</td>
-      <td>Analyzed <strong>BOTSv3 telemetry</strong>, reverse-engineered encoded PowerShell scripts, mapped tactics to <strong>MITRE ATT&CK</strong>.</td>
-    </tr>
-    <tr>
-      <td>🚨 <a href="https://github.com/Seanfrvr/gcp-data-breach-incident-response"><strong>gcp-cloud-incident-response/</strong></a></td>
-      <td>Cloud DFIR</td>
-      <td>Investigated SSH compromise, performed Cloud Audit log forensics, executed perimeter containment under <strong>NIST SP 800-61</strong>.</td>
-    </tr>
-  </tbody>
-</table>
+### Endpoint & Network
+<div>
+<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-<br><br>
-
-<p>═══════════════════════════════════════════════════════════════════════════════════</p>
-
-<!-- Clean Monochrome Stats -->
-<h3><code>> root@sean-soc:~# systemctl status activity.service</code></h3>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seanfrvr&show_icons=true&theme=dark&hide_border=false&border_color=333333&bg_color=0D1117&text_color=C9D1D9&title_color=FFFFFF&icon_color=FFFFFF" alt="Sean's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seanfrvr&theme=dark&hide_border=false&border_color=333333&background=0D1117&stroke=FFFFFF&alarm=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=FFFFFF" alt="GitHub Streak" width="48%" />
-</p>
-
+### Cloud Security
+<div>
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-IAM-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security_Command_Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
