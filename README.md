@@ -4,7 +4,7 @@
 
 ## Brief Introduction
 
-cloud & cyber security analyst building toward a specialization in cloud security, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection.
+security analyst, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection—backed by practical cloud security knowledge.
 
 ## Focus
 
