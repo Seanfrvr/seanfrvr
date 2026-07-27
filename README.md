@@ -6,9 +6,9 @@
 
 cloud & cyber security analyst building toward a specialization in cloud security, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection.
 
-## Objective
+## Focus
 
-Seeking a Security Analyst role where I can apply hands on experience from independently building, breaking, and securing real infrastructure, turning that practical foundation into effective threat detection and incident response for a team.
+Security Analyst operating at the intersection of SIEM log engineering, cloud infrastructure security, and packet-level network analysis. Built to detect, analyze, and contain threats across enterprise attack surfaces.
 
 ## Skills
 
