@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/sean-n-04354b3bb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+## Brief Intro
 
 security analyst, with hands-on experience in alert triage, log analysis, SIEM investigation using Splunk, network traffic analysis with Wireshark, and MITRE ATT&CK-based threat detection—backed by practical cloud security knowledge.
 
