@@ -1,6 +1,6 @@
 # Hey, I'm Sean
 
-<a href="https://www.linkedin.com/in/sean-ngwengwe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sean-ngwengwe-04354b3bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Intro
 
