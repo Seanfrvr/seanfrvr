@@ -2,17 +2,18 @@
 
 # CASE FILE: SEAN
 
-### Security Analyst | Threat Hunting & Detection Engineering
+### Threat Hunting & Detection Engineering | Security Analyst
 
-`STATUS: ACTIVE` &nbsp; `HANDLE: Seanfrvr` &nbsp; `CURRENT FILE: Detection Engineering & Response HL`
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-3F6B45?style=for-the-badge&labelColor=2A2013" alt="Active status" />
+<img src="https://img.shields.io/badge/CURRENT_FILE-DETECTION_ENGINEERING-A53B32?style=for-the-badge&labelColor=2A2013" alt="Current file" />
 
-I build hands on security labs, investigate telemetry, and document the reasoning behind each finding. My strongest interests are threat hunting and detection engineering, with foundational cloud security knowledge across identity, logging, and infrastructure security.
+Security analyst focused on threat hunting and detection engineering, with hands on cloud security knowledge across IAM, logging and infrastructure security.
 
 <a href="https://seanfrvr.github.io/">
-  <img src="https://img.shields.io/badge/OPEN_CASE_FILE-PORTFOLIO-6B4F32?style=for-the-badge&labelColor=2A2013" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/OPEN_CASE_FILE-PORTFOLIO-A53B32?style=for-the-badge&labelColor=2A2013" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/sean-ngwengwe-04354b3bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-SEAN-8A6A45?style=for-the-badge&labelColor=2A2013" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-8A6A45?style=for-the-badge&labelColor=2A2013" alt="LinkedIn" />
 </a>
 
 </div>
@@ -23,24 +24,27 @@ I build hands on security labs, investigate telemetry, and document the reasonin
 
 ### Detection Engineering & Response Home Lab
 
-`ACTIVE FILE` `PRIVATE WHILE IN PROGRESS`
+<img src="https://img.shields.io/badge/FILE-ACTIVE-A53B32?style=flat-square&labelColor=2A2013" alt="Active file" />
+<img src="https://img.shields.io/badge/ACCESS-PRIVATE_CURRENTLY-8A6A45?style=flat-square&labelColor=2A2013" alt="Private currently" />
 
-A live SOC lab built around real endpoint telemetry instead of sample alerts. I am using it to move beyond simply seeing detections and focus on how telemetry becomes useful detection logic and response actions.
+Live SOC lab built around real endpoint telemetry, adversary emulation, detection logic, enrichment and response.
 
 **Current stack**
 
-`Wazuh` `Sysmon` `Atomic Red Team` `Mimikatz` `Shuffle SOAR` `VirusTotal` `Slack`
+<img src="https://img.shields.io/badge/Wazuh-2A2013?style=flat-square" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Sysmon-5F4529?style=flat-square" alt="Sysmon" />
+<img src="https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=flat-square" alt="Atomic Red Team" />
+<img src="https://img.shields.io/badge/Shuffle_SOAR-8A6A45?style=flat-square" alt="Shuffle SOAR" />
+<img src="https://img.shields.io/badge/VirusTotal-C98A3A?style=flat-square" alt="VirusTotal" />
 
-**What I am working on**
+**Current focus**
 
-- Generating attack telemetry through adversary emulation
-- Hunting activity in Wazuh and validating what the endpoint actually recorded
+- Generating and hunting live attack telemetry
 - Mapping findings to MITRE ATT&CK
-- Identifying detection gaps when telemetry exists but alert logic is weak
+- Identifying detection gaps and improving alert logic
 - Building automated enrichment and response workflows
-- Documenting failures, troubleshooting, recovery, and investigation decisions as part of the project
 
-> The repository will be made public when the investigation is ready to be presented as a complete case file.
+> Repository will be made public when the investigation is ready to present as a complete case file.
 
 ---
 
@@ -48,9 +52,10 @@ A live SOC lab built around real endpoint telemetry instead of sample alerts. I 
 
 ### [Threat Hunting with Splunk Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL)
 
-`CLOSED` `3 INVESTIGATIONS ATTACHED`
+<img src="https://img.shields.io/badge/FILE-CLOSED-3F6B45?style=flat-square&labelColor=2A2013" alt="Closed file" />
+<img src="https://img.shields.io/badge/INVESTIGATIONS-3-8A6A45?style=flat-square&labelColor=2A2013" alt="Three investigations" />
 
-Built a Splunk Enterprise home lab using the BOTSv3 dataset and investigated multiple attack scenarios with SPL, event correlation, payload analysis, and MITRE ATT&CK mapping. Each hunt is documented from the initial activity through the final finding and defensive recommendations.
+Built a Splunk Enterprise home lab using the BOTSv3 dataset and investigated multiple attack scenarios through event correlation, payload analysis and MITRE ATT&CK mapping.
 
 | File | Investigation | ATT&CK |
 | :--- | :--- | :--- |
@@ -58,53 +63,43 @@ Built a Splunk Enterprise home lab using the BOTSv3 dataset and investigated mul
 | **02** | [Linux SSH Brute Force](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL/blob/main/scenarios/scenario-2-ssh-bruteforce.md) | `T1110.001` `T1087` |
 | **03** | [AWS CloudTrail S3 Exposure](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL/blob/main/scenarios/scenario-3-aws-cloudtrail.md) | `T1078` `T1530` |
 
-**Evidence demonstrated**
+**Investigation toolkit**
 
-`Splunk` `BOTSv3` `CyberChef` `VirusTotal` `Windows Logs` `Linux Authentication Logs` `AWS CloudTrail` `MITRE ATT&CK`
-
----
-
-## 03 // Investigation Toolkit
-
-**Investigation & SIEM**  
-`Splunk` `Wazuh` `Sysmon` `Wireshark` `Linux`
-
-**Detection & Response**  
-`Atomic Red Team` `MITRE ATT&CK` `Shuffle SOAR` `VirusTotal`
-
-**Cloud Security Foundations**  
-`AWS CloudTrail` `IAM` `Google Cloud` `Terraform`
+<img src="https://img.shields.io/badge/Splunk-2A2013?style=flat-square" alt="Splunk" />
+<img src="https://img.shields.io/badge/BOTSv3-5F4529?style=flat-square" alt="BOTSv3" />
+<img src="https://img.shields.io/badge/CyberChef-C98A3A?style=flat-square" alt="CyberChef" />
+<img src="https://img.shields.io/badge/AWS_CloudTrail-8A6A45?style=flat-square" alt="AWS CloudTrail" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-A53B32?style=flat-square" alt="MITRE ATT&CK" />
 
 ---
 
-## 04 // How I Work
+## 03 // Technical Arsenal
 
-```text
-BUILD THE LAB
-     ↓
-GENERATE OR INGEST TELEMETRY
-     ↓
-HUNT THE ACTIVITY
-     ↓
-VALIDATE THE EVIDENCE
-     ↓
-MAP THE BEHAVIOR
-     ↓
-IDENTIFY DETECTION GAPS
-     ↓
-DOCUMENT THE INVESTIGATION
-```
+**Investigation & SIEM**
 
-I prefer projects that show the investigation process rather than a finished screenshot with no explanation. The goal is to make it clear what I observed, why I pivoted, what the evidence supported, and what I would improve defensively.
+<img src="https://img.shields.io/badge/Splunk-2A2013?style=for-the-badge" alt="Splunk" />
+<img src="https://img.shields.io/badge/Wazuh-5F4529?style=for-the-badge" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Sysmon-8A6A45?style=for-the-badge" alt="Sysmon" />
+<img src="https://img.shields.io/badge/Wireshark-C98A3A?style=for-the-badge" alt="Wireshark" />
+
+**Detection & Response**
+
+<img src="https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=for-the-badge" alt="Atomic Red Team" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-7E2C26?style=for-the-badge" alt="MITRE ATT&CK" />
+<img src="https://img.shields.io/badge/Shuffle_SOAR-8A6A45?style=for-the-badge" alt="Shuffle SOAR" />
+<img src="https://img.shields.io/badge/VirusTotal-C98A3A?style=for-the-badge" alt="VirusTotal" />
+
+**Cloud Security Foundations**
+
+<img src="https://img.shields.io/badge/AWS_CloudTrail-8A6A45?style=for-the-badge" alt="AWS CloudTrail" />
+<img src="https://img.shields.io/badge/IAM-5F4529?style=for-the-badge" alt="IAM" />
+<img src="https://img.shields.io/badge/Google_Cloud-C98A3A?style=for-the-badge" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Terraform-3F6B45?style=for-the-badge" alt="Terraform" />
 
 ---
 
 <div align="center">
 
-### CASE FILE INDEX
-
 [Portfolio](https://seanfrvr.github.io/) · [Threat Hunting with Splunk](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) · [LinkedIn](https://www.linkedin.com/in/sean-ngwengwe-04354b3bb/)
-
-`Threat Hunting` `Detection Engineering` `Security Operations` `Cloud Security Foundations`
 
 </div>
