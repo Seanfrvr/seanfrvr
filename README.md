@@ -15,11 +15,9 @@ Security analyst focused on threat hunting and detection engineering, with hands
 | **Threat Hunting & SIEM Investigation** | [Threat Hunting with Splunk Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
 | **Detection Engineering & Response** | **Detection Engineering & Response Home Lab** · `In Progress` |
 
-```text
-03 // INVESTIGATION STACK
-> tools loaded from active case files
-> status: ready
-```
+## 🧰 Investigation Stack
+
+> Tools currently used across my case files, grouped by how I use them during investigations.
 
 ### SIEM, Endpoint & OS
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
