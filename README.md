@@ -15,10 +15,12 @@ Security analyst focused on threat hunting and detection engineering, with hands
 | **Threat Hunting & SIEM Investigation** | [Threat Hunting with Splunk Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
 | **Detection Engineering & Response** | **Detection Engineering & Response Home Lab** · `In Progress` |
 
-## 🧰 Technical Arsenal
+## 🧰 Investigation Stack
+
+> Tools currently used across my case files, grouped by how I use them during investigations.
 
 ### SIEM, Endpoint & OS
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge) ![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Detection Engineering
 ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-7E2C26?style=for-the-badge)
