@@ -17,7 +17,7 @@ Security analyst focused on threat hunting and detection engineering, with hands
 
 ## 🧰 Investigation Stack
 
-> Tools/platforms I have high knowledge using backed across my case files. I showcase how I use all during investigations.
+> Tools and platforms I have high knowledge using backed across my case files. Each project showcases how I apply them during investigations.
 
 ### SIEM, Endpoint & OS
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
