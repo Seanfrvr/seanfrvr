@@ -6,7 +6,7 @@
 
 ## Brief Intro
 
-Security analyst focused on threat hunting and detection engineering, with hands on experience in SIEM investigations and foundational cloud security knowledge.
+Blue team investigator focused on threat hunting and detection engineering, with hands on experience in SIEM investigations and foundational cloud security knowledge.
 
 ## 🛠️ Skills & Projects
 
