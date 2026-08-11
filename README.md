@@ -13,7 +13,7 @@ Blue team investigator focused on threat hunting and detection engineering, with
 | Skill | Associated Project |
 | :--- | :--- |
 | **Threat Hunting & SIEM Investigation** | [Threat Hunting with Splunk Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
-| **Detection Engineering & Response** | **Detection Engineering & Response Home Lab** · `In Progress` |
+| **Detection Engineering & Response** | [Detection Engineering & Response Home Lab](https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL) |
 
 ## 🧰 Investigation Stack
 
