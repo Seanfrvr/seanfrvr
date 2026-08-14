@@ -6,7 +6,9 @@
 
 ## Brief Intro
 
-Blue team investigator focused on threat hunting and detection engineering, with hands on experience in SIEM investigations and foundational cloud security knowledge.
+My work sits where threat hunting, detection, and incident investigation meet. I build hands on security labs that generate real telemetry, uncover security gaps, and turn suspicious activity into evidence backed investigations. My work spans SIEM analysis, endpoint telemetry, incident response, and growing cloud security experience.
+
+
 
 ## 🛠️ Skills & Projects
 
