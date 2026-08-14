@@ -6,7 +6,7 @@
 
 ## Brief Intro
 
-My work sits where threat hunting, detection, and incident investigation meet. I build hands on security labs that generate real telemetry, uncover security gaps, and turn suspicious activity into evidence backed investigations. My work spans SIEM analysis, endpoint telemetry, incident response, and growing cloud security experience.
+My work sits where threat hunting, detection, and incident investigation meet. I build hands on security labs that generate real telemetry, uncover security gaps, and turn suspicious activity into evidence backed investigations. That work spans SIEM analysis, endpoint telemetry, incident response, and growing cloud security experience.
 
 
 
