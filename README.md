@@ -26,7 +26,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Network Detection & Packet Forensics
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=for-the-badge&logoColor=white) ![TraceHound](https://img.shields.io/badge/TraceHound-Custom_Python_Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=for-the-badge&logoColor=white) 
 
 ### Response & Enrichment
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-8A6A45?style=for-the-badge&logo=shuffle&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
