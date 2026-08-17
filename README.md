@@ -16,7 +16,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 | :--- | :--- |
 | **Threat Hunting & SIEM Investigation** | [Threat Hunting with Splunk Home Lab](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL) |
 | **Detection Engineering & Response** | [Detection Engineering & Response Home Lab](https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL) |
-| **Network Detection & Packet Forensics** | **coming soon...** |
+| **Network Detection & Packet Forensics** | [Network Detection & Packet Forensics Home Lab](https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab) |
 
 ## 🧰 Investigation Stack
 
