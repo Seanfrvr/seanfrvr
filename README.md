@@ -1,6 +1,6 @@
 # Hey, I'm Sean
 
-### Threat Hunter & Blue Team Investigator
+### Security Analyst | Detection & Response
 
 <a href="https://seanfrvr.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8A6A45?style=for-the-badge&logo=githubpages&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sean-ngwengwe-04354b3bb" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
