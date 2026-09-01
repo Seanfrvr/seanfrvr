@@ -8,6 +8,8 @@
 
 My work sits where threat hunting, detection, and incident investigation meet. I build hands on security labs that generate real telemetry, uncover security gaps, and turn suspicious activity into evidence backed investigations. That work spans SIEM analysis, endpoint telemetry, network forensics, incident response, and cloud security.
 
+**Current focus:** `Security+` `Azure Identity Security` `Detection Engineering`
+
 ## 🔎 Featured Case Files
 
 | Case File | What it demonstrates |
@@ -22,19 +24,19 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 > Tools and platforms I have practical experience using across my case files.
 
 ### SIEM & Investigation
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-2F81F7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 
 ### Endpoint & Detection
-![Sysmon](https://img.shields.io/badge/Sysmon-167DAA?style=for-the-badge&logo=windows11&logoColor=white) ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=for-the-badge&logo=redcanary&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-7E2C26?style=for-the-badge&logo=mitre&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C64227?style=for-the-badge&logo=mitre&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Network Detection & Forensics
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scapy](https://img.shields.io/badge/Scapy-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud Security
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra_ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white) ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra_ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 ### Response & Enrichment
-![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-8A6A45?style=for-the-badge&logo=shuffle&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF6B00?style=for-the-badge&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
 ## My Approach
 
