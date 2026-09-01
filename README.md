@@ -8,7 +8,7 @@
 
 My work sits where threat hunting, detection, and incident investigation meet. I build hands on security labs that generate real telemetry, uncover security gaps, and turn suspicious activity into evidence backed investigations. That work spans SIEM analysis, endpoint telemetry, network forensics, incident response, and cloud security.
 
-**Current focus:** `Security+` `Azure Identity Security` `Detection Engineering`
+**Current focus:** `Security+` `Certified CyberDefender Level 2 (CCDL2) ` `Detection Engineering`
 
 ## 🔎 Featured Case Files
 
