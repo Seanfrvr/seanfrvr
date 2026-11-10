@@ -19,20 +19,43 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 
 ## SELECTED WORK
 
-**01 / NETWORK DETECTION & FORENSICS** · **[Network Detection & Packet Forensics ↗](https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab)**  
-Blind PCAP investigation, Zeek and Suricata correlation, custom IDS logic, replay validation, evidence hashing, and the TraceHound Python triage tool
-
-**02 / CLOUD IDENTITY** · **[Azure Identity Detection & Correlation ↗](https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab)**  
-Entra audit investigation, KQL correlation, Sentinel analytic deployment, live replay, alert tuning, and incident validation
-
-**03 / DETECTION ENGINEERING** · **[Detection Engineering & Response ↗](https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL)**  
-Live Sysmon and Wazuh telemetry, Atomic Red Team testing, detection gap analysis, SOAR automation, and response validation
-
-**04 / SIEM THREAT HUNTING** · **[Threat Hunting with Splunk ↗](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL)**  
-SPL threat hunting across PowerShell, Linux authentication, and AWS CloudTrail activity using BOTSv3
-
-**05 / ENTERPRISE DFIR** · **[Enterprise Intrusion Investigation & DFIR ↗](https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR)**  
-Cross-platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline
+<table>
+  <tr>
+    <td>
+      <strong>01 / NETWORK DETECTION &amp; FORENSICS</strong><br />
+      <a href="https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab"><strong>Network Detection &amp; Packet Forensics ↗</strong></a><br />
+      Blind PCAP investigation, Zeek and Suricata correlation, custom IDS logic, replay validation, evidence hashing, and the TraceHound Python triage tool
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>02 / CLOUD IDENTITY</strong><br />
+      <a href="https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab"><strong>Azure Identity Detection &amp; Correlation ↗</strong></a><br />
+      Entra audit investigation, KQL correlation, Sentinel analytic deployment, live replay, alert tuning, and incident validation
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>03 / DETECTION ENGINEERING</strong><br />
+      <a href="https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL"><strong>Detection Engineering &amp; Response ↗</strong></a><br />
+      Live Sysmon and Wazuh telemetry, Atomic Red Team testing, detection gap analysis, SOAR automation, and response validation
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>04 / SIEM THREAT HUNTING</strong><br />
+      <a href="https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL"><strong>Threat Hunting with Splunk ↗</strong></a><br />
+      SPL threat hunting across PowerShell, Linux authentication, and AWS CloudTrail activity using BOTSv3
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>05 / ENTERPRISE DFIR</strong><br />
+      <a href="https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR"><strong>Enterprise Intrusion Investigation &amp; DFIR ↗</strong></a><br />
+      Cross-platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline
+    </td>
+  </tr>
+</table>
 
 <hr />
 
