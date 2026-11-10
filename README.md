@@ -3,7 +3,7 @@
 <p align="center"><strong>Security Analyst | Detection & Response</strong></p>
 
 <p align="center">
-  <a href="https://seanfrvr.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://seanfrvr.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8A6A45?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sean-ngwengwe-04354b3bb" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D6E9E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
