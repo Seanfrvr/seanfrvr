@@ -19,42 +19,19 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 
 ## SELECTED WORK
 
-<p><img src="https://img.shields.io/badge/01%20%2F%20NETWORK%20DETECTION%20%26%20FORENSICS-8A6A45?style=flat-square&amp;labelColor=242424" alt="01 / NETWORK DETECTION &amp; FORENSICS" /></p>
-
-<h3><a href="https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab">Network Detection &amp; Packet Forensics ↗</a></h3>
-
+**01 / NETWORK DETECTION & FORENSICS** · **[Network Detection & Packet Forensics ↗](https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab)**  
 Blind PCAP investigation, Zeek and Suricata correlation, custom IDS logic, replay validation, evidence hashing, and the TraceHound Python triage tool
 
-<hr />
-
-<p><img src="https://img.shields.io/badge/02%20%2F%20CLOUD%20IDENTITY-8A6A45?style=flat-square&amp;labelColor=242424" alt="02 / CLOUD IDENTITY" /></p>
-
-<h3><a href="https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab">Azure Identity Detection &amp; Correlation ↗</a></h3>
-
+**02 / CLOUD IDENTITY** · **[Azure Identity Detection & Correlation ↗](https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab)**  
 Entra audit investigation, KQL correlation, Sentinel analytic deployment, live replay, alert tuning, and incident validation
 
-<hr />
-
-<p><img src="https://img.shields.io/badge/03%20%2F%20DETECTION%20ENGINEERING-8A6A45?style=flat-square&amp;labelColor=242424" alt="03 / DETECTION ENGINEERING" /></p>
-
-<h3><a href="https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL">Detection Engineering &amp; Response ↗</a></h3>
-
+**03 / DETECTION ENGINEERING** · **[Detection Engineering & Response ↗](https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL)**  
 Live Sysmon and Wazuh telemetry, Atomic Red Team testing, detection gap analysis, SOAR automation, and response validation
 
-<hr />
-
-<p><img src="https://img.shields.io/badge/04%20%2F%20SIEM%20THREAT%20HUNTING-8A6A45?style=flat-square&amp;labelColor=242424" alt="04 / SIEM THREAT HUNTING" /></p>
-
-<h3><a href="https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL">Threat Hunting with Splunk ↗</a></h3>
-
+**04 / SIEM THREAT HUNTING** · **[Threat Hunting with Splunk ↗](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL)**  
 SPL threat hunting across PowerShell, Linux authentication, and AWS CloudTrail activity using BOTSv3
 
-<hr />
-
-<p><img src="https://img.shields.io/badge/05%20%2F%20ENTERPRISE%20DFIR-8A6A45?style=flat-square&amp;labelColor=242424" alt="05 / ENTERPRISE DFIR" /></p>
-
-<h3><a href="https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR">Enterprise Intrusion Investigation &amp; DFIR ↗</a></h3>
-
+**05 / ENTERPRISE DFIR** · **[Enterprise Intrusion Investigation & DFIR ↗](https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR)**  
 Cross-platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline
 
 <hr />
