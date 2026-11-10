@@ -18,6 +18,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 | **[02 Azure Identity Detection & Correlation](https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab)** | Entra audit investigation, KQL correlation, Sentinel analytic deployment, live replay, alert tuning, and incident validation |
 | **[03 Detection Engineering & Response](https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL)** | Live Sysmon and Wazuh telemetry, Atomic Red Team testing, detection gap analysis, SOAR automation, and response validation |
 | **[04 Threat Hunting with Splunk](https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL)** | SPL threat hunting across PowerShell, Linux authentication, and AWS CloudTrail activity using BOTSv3 |
+| **[05 Enterprise Intrusion Investigation & DFIR](https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR)** | Cross-platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline |
 
 ## 🧰 Investigation Stack
 
