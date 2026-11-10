@@ -52,7 +52,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 ![Splunk](https://img.shields.io/badge/Splunk-161B22?style=flat-square&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1F6FEB?style=flat-square&logo=microsoftazure&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
 
 ### Endpoint & Detection
-![Sysmon](https://img.shields.io/badge/Sysmon-1F6FEB?style=flat-square&logo=windows&logoColor=white) ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C64227?style=flat-square&logo=mitre&logoColor=white) ![Linux](https://img.shields.io/badge/Linux- FCC624?style=flat-square&logo=linux&logoColor=black)
+![Sysmon](https://img.shields.io/badge/Sysmon-1F6FEB?style=flat-square&logo=windows&logoColor=white) ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C64227?style=flat-square&logo=mitre&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Network Detection & Forensics
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=flat-square&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
