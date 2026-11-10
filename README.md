@@ -66,27 +66,27 @@ My work sits where threat hunting, detection, and incident investigation meet. I
   <tr>
     <td width="50%" valign="top">
       <strong>SIEM & Investigation</strong><br />
-      ![Splunk](https://img.shields.io/badge/Splunk-161B22?style=flat-square&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1F6FEB?style=flat-square&logo=microsoftazure&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+      <img src="https://img.shields.io/badge/Splunk-161B22?style=flat-square&amp;logo=splunk&amp;logoColor=white" alt="Splunk" /> <img src="https://img.shields.io/badge/Microsoft_Sentinel-1F6FEB?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Sentinel" /> <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&amp;logo=wazuh&amp;logoColor=white" alt="Wazuh" />
     </td>
     <td width="50%" valign="top">
       <strong>Endpoint & Detection</strong><br />
-      ![Sysmon](https://img.shields.io/badge/Sysmon-1F6FEB?style=flat-square&logo=windows&logoColor=white) ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C64227?style=flat-square&logo=mitre&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+      <img src="https://img.shields.io/badge/Sysmon-1F6FEB?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Sysmon" /> <img src="https://img.shields.io/badge/Atomic_Red_Team-A53B32?style=flat-square" alt="Atomic Red Team" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C64227?style=flat-square&amp;logo=mitre&amp;logoColor=white" alt="MITRE ATT&amp;CK" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Network Detection & Forensics</strong><br />
-      ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=flat-square&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF6C35?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Zeek-2E3440?style=flat-square&amp;logoColor=white" alt="Zeek" /> <img src="https://img.shields.io/badge/Suricata-EF6C35?style=flat-square&amp;logoColor=white" alt="Suricata" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
     </td>
     <td width="50%" valign="top">
       <strong>Cloud Security</strong><br />
-      ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1F6FEB?style=flat-square&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra_ID-5E5CE6?style=flat-square&logo=microsoft&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-34A853?style=flat-square&logo=googlecloud&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+      <img src="https://img.shields.io/badge/Microsoft_Azure-1F6FEB?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" /> <img src="https://img.shields.io/badge/Entra_ID-5E5CE6?style=flat-square&amp;logo=microsoft&amp;logoColor=white" alt="Entra ID" /> <img src="https://img.shields.io/badge/Google_Cloud-34A853?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS CloudTrail" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <strong>Response & Enrichment</strong><br />
-      ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF6B00?style=flat-square&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+      <img src="https://img.shields.io/badge/Shuffle_SOAR-FF6B00?style=flat-square&amp;logoColor=white" alt="Shuffle SOAR" /> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&amp;logo=virustotal&amp;logoColor=white" alt="VirusTotal" />
     </td>
   </tr>
 </table>
