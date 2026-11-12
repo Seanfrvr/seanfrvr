@@ -53,7 +53,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
       <strong>05 / ENTERPRISE DFIR</strong><br />
       <a href="https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR"><strong>Enterprise Intrusion Investigation &amp; DFIR ↗</strong></a>
     </td>
-    <td valign="top">Cross-platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline</td>
+    <td valign="top">Cross platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline</td>
   </tr>
 </table>
 
