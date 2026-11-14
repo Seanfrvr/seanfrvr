@@ -22,35 +22,42 @@ My work sits where threat hunting, detection, and incident investigation meet. I
 <table>
   <tr>
     <td width="42%" valign="top">
-      <strong>01 / NETWORK DETECTION &amp; FORENSICS</strong><br />
+      <strong>01 / AI SECURITY OPERATIONS</strong><br />
+      <strong>Agentic AI SOC Operations Lab</strong> <em>(In Progress)</em>
+    </td>
+    <td valign="top">Building an AI security agent that analyses aggregated Wazuh endpoint alerts, prioritises suspicious activity, and produces investigation recommendations using n8n, Wazuh Indexer (OpenSearch), and Google Gemini. Planned expansion into AI assisted threat hunting.</td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <strong>02 / NETWORK DETECTION &amp; FORENSICS</strong><br />
       <a href="https://github.com/Seanfrvr/Network-Detection-and-Packet-Forensics-home-lab"><strong>Network Detection &amp; Packet Forensics ↗</strong></a>
     </td>
     <td valign="top">Blind PCAP investigation, Zeek and Suricata correlation, custom IDS logic, replay validation, evidence hashing, and the TraceHound Python triage tool</td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>02 / CLOUD IDENTITY</strong><br />
+      <strong>03 / CLOUD IDENTITY</strong><br />
       <a href="https://github.com/Seanfrvr/Azure-Identity-Detection-Correlation-Home-Lab"><strong>Azure Identity Detection &amp; Correlation ↗</strong></a>
     </td>
     <td valign="top">Entra audit investigation, KQL correlation, Sentinel analytic deployment, live replay, alert tuning, and incident validation</td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>03 / DETECTION ENGINEERING</strong><br />
+      <strong>04 / DETECTION ENGINEERING</strong><br />
       <a href="https://github.com/Seanfrvr/Detection-Engineering-and-Response-HL"><strong>Detection Engineering &amp; Response ↗</strong></a>
     </td>
     <td valign="top">Live Sysmon and Wazuh telemetry, Atomic Red Team testing, detection gap analysis, SOAR automation, and response validation</td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>04 / SIEM THREAT HUNTING</strong><br />
+      <strong>05 / SIEM THREAT HUNTING</strong><br />
       <a href="https://github.com/Seanfrvr/Threat-hunting-with-splunk-HL"><strong>Threat Hunting with Splunk ↗</strong></a>
     </td>
     <td valign="top">SPL threat hunting across PowerShell, Linux authentication, and AWS CloudTrail activity using BOTSv3</td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>05 / ENTERPRISE DFIR</strong><br />
+      <strong>06 / ENTERPRISE DFIR</strong><br />
       <a href="https://github.com/Seanfrvr/Enterprise-Intrusion-Investigation-DFIR"><strong>Enterprise Intrusion Investigation &amp; DFIR ↗</strong></a>
     </td>
     <td valign="top">Cross platform BOTSv3 investigation across AWS, Windows, DNS, Sysmon, Azure AD, and Microsoft 365, with evidence handling and a reproducible Python analysis pipeline</td>
