@@ -25,7 +25,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
       <strong>01 / AI SECURITY OPERATIONS</strong><br />
       <strong>Agentic AI SOC Operations Lab</strong> <em>(In Progress)</em>
     </td>
-    <td valign="top">Building an AI security agent that analyses aggregated Wazuh endpoint alerts, prioritises suspicious activity, and produces investigation recommendations using n8n, Wazuh Indexer (OpenSearch), and Google Gemini. Planned expansion into AI assisted threat hunting.</td>
+    <td valign="top">Building an AI powered SOC agent to analyse endpoint alerts, identify suspicious activity, prioritise investigations and support security analysts. Expanding the lab towards AI assisted threat hunting.</td>
   </tr>
   <tr>
     <td width="42%" valign="top">
