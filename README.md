@@ -23,9 +23,9 @@ My work sits where threat hunting, detection, and incident investigation meet. I
   <tr>
     <td width="42%" valign="top">
       <strong>01 / AI SECURITY OPERATIONS</strong><br />
-      <strong>Agentic AI SOC Operations Lab</strong> <em>(In Progress)</em>
+      <strong>Agentic AI SOC Operations Lab</strong> <em>(Live)</em>
     </td>
-    <td valign="top">Building an AI powered SOC agent to analyse endpoint alerts, identify suspicious activity, prioritise investigations and support security analysts. Expanding the lab towards AI assisted threat hunting.</td>
+    <td valign="top">Public home lab documenting Wazuh monitoring, n8n security workflows, AI assisted alert triage and threat hunting. The environment is operational and continues to expand with additional red team scenarios and Windows endpoint telemetry.</td>
   </tr>
   <tr>
     <td width="42%" valign="top">
