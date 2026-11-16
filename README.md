@@ -25,7 +25,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
       <strong>01 / AI SECURITY OPERATIONS</strong><br />
       <a href="https://github.com/Seanfrvr/agentic-ai-security-lab"><strong>Agentic AI SOC Operations Lab ↗</strong></a> <em>(Live)</em>
     </td>
-    <td valign="top">A hands on security operations lab integrating Wazuh, n8n, Google Gemini and Postman. The environment combines Linux endpoint monitoring, adversary emulation, custom detection engineering, API integration and AI assisted security operations. It demonstrates endpoint threat detection, alert analysis and automated security workflows across monitored systems.</td>
+    <td valign="top">A hands on security operations lab integrating Wazuh, n8n, Google Gemini and Postman. Focused on Linux endpoint monitoring, adversary emulation, detection engineering, AI assisted alert triage, incident response and threat hunting.</td>
   </tr>
   <tr>
     <td width="42%" valign="top">
