@@ -23,7 +23,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
   <tr>
     <td width="42%" valign="top">
       <strong>01 / AI SECURITY OPERATIONS</strong><br />
-      <strong>Agentic AI SOC Operations Lab</strong> <em>(Live)</em>
+      <a href="https://github.com/Seanfrvr/agentic-ai-security-lab"><strong>Agentic AI SOC Operations Lab ↗</strong></a> <em>(Live)</em>
     </td>
     <td valign="top">Public home lab documenting Wazuh monitoring, n8n security workflows, AI assisted alert triage and threat hunting. The environment is operational and continues to expand with additional red team scenarios and Windows endpoint telemetry.</td>
   </tr>
