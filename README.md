@@ -25,7 +25,7 @@ My work sits where threat hunting, detection, and incident investigation meet. I
       <strong>01 / AI SECURITY OPERATIONS</strong><br />
       <a href="https://github.com/Seanfrvr/agentic-ai-security-lab"><strong>Agentic AI SOC Operations Lab ↗</strong></a> <em>(Live)</em>
     </td>
-    <td valign="top">A Wazuh based security operations lab integrating n8n and AI to analyse endpoint telemetry, triage alerts and support evidence based threat hunting.</td>
+    <td valign="top">A hands on security operations lab built with Wazuh, n8n and Google Gemini. It brings together Linux endpoint monitoring, controlled attack simulations, custom detection rules and AI assisted workflows for alert triage and threat hunting, turning security telemetry into structured investigations with supporting evidence and remediation guidance.</td>
   </tr>
   <tr>
     <td width="42%" valign="top">
